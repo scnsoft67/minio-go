@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"log"
 
-	minio "github.com/minio/minio-go/v7"
-	"github.com/minio/minio-go/v7/pkg/credentials"
+	minio "github.com/scnsoft67/minio-go"
+	"github.com/scnsoft67/minio-go/pkg/credentials"
 )
 
 func main() {

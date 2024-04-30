@@ -8,7 +8,6 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/klauspost/compress v1.17.6
 	github.com/minio/md5-simd v1.1.2
-	github.com/minio/minio-go/v7 v7.0.70
 	github.com/rs/xid v1.5.0
 	golang.org/x/crypto v0.21.0
 	golang.org/x/net v0.23.0
@@ -17,7 +16,7 @@ require (
 
 require (
 	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/stretchr/testify v1.9.0 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 )
