@@ -1,4 +1,4 @@
-module github.com/scnsoft67/minio-go/v7
+module github.com/scnsoft67/minio-go
 
 go 1.21
 
